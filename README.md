@@ -107,6 +107,10 @@ It does not contain:
 **Todd Stringfellow**
 
 B.S. Information Technology  
+
 Digital Forensics Concentration  
+
 Minor in Computer Information Systems  
+
 University of South Alabama
+
