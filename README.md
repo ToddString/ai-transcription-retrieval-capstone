@@ -1,16 +1,22 @@
 # AI Transcription and Retrieval System
 
-A University of South Alabama capstone project focused on processing multimodal content into searchable, timestamped outputs using artificial intelligence and retrieval-augmented generation.
+A University of South Alabama capstone project developed for a publicly traded healthcare technology organization to address the challenge of making large volumes of information across multiple content formats easier to process, search, and retrieve.
 
-The project supported audio, video, images, PDFs, and URLs and combined transcription, speaker diarization, visual-content interpretation, document retrieval, and structured report generation.
+The project focused on transforming audio, video, images, PDFs, and web-based content into searchable, timestamped outputs that could support contextual information retrieval and question answering. The system combined transcription, speaker diarization, visual-content interpretation, retrieval-augmented generation, and structured report generation.
 
 > **Confidentiality Notice:** Certain implementation details, source code, project materials, screenshots, and deliverables are intentionally omitted due to confidentiality obligations.
 
-## Project Overview
+## Business Problem
 
-The system was designed to transform uploaded and linked content into organized, searchable information that could be reviewed, queried, and exported in multiple formats.
+The organization needed a more efficient way to work with large amounts of information distributed across different file and media formats. Manually reviewing lengthy recordings, documents, images, and other content can make it difficult to quickly locate relevant information or use that information as context for downstream AI-assisted workflows.
 
-The application combined several AI and data-processing components into a single workflow, including speech recognition, speaker identification, visual analysis, retrieval-augmented question answering, and report generation.
+The project explored how AI-based processing and retrieval could transform multimodal content into structured, searchable information for faster querying and review.
+
+## Project Solution
+
+The team developed an AI-powered multimodal processing application that could ingest supported content, generate searchable and timestamped outputs, and make processed information available for retrieval-augmented question answering.
+
+The application incorporated speech recognition, speaker diarization, visual analysis, document processing, retrieval-augmented generation, and report generation to support a unified information-processing workflow.
 
 ## My Contributions
 
@@ -107,10 +113,6 @@ It does not contain:
 **Todd Stringfellow**
 
 B.S. Information Technology  
-
 Digital Forensics Concentration  
-
 Minor in Computer Information Systems  
-
 University of South Alabama
-
